@@ -639,3 +639,8 @@ https://www.php.net/manual/pt_BR/index.php acessado em  22/06/2021 14:43
 http://www.uel.br/grupo-pesquisa/gpac/pages/arquivos/consumo%20de%20carne%20revisado%20II%20livro%20ronaldo.pdf acessado em 10/07/2021 as 09:36
 
 I.Gallotti, Giocondo Marino Antonio. Arquitetura de software. São Paulo : Person Education do Brasil, 2016. 135
+
+Link da defesa versão teorica
+[Defesa Teorica](https://youtu.be/uucmzGmcKfg)
+Link da defesa versão aplicada
+[Defesa Aplicação](https://youtu.be/D20YLoV4yZ4)
