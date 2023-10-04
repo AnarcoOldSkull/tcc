@@ -1,0 +1,121 @@
+body{
+    background: #dee2e6;
+}
+#botoes{
+    margin-top: 1.4%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    color: indigo;
+    border: solid 3px;
+    border-radius: 5px;
+    vertical-align: middle;
+}
+.indi{
+    background: indigo;
+    color:lightblue;
+}
+.indi:hover{
+    background: #6600ff;
+    color:	#00ffff;
+}
+.nav-link:hover{
+    background: #6600ff;
+    color:	#00ffff;
+}
+#corpo{
+    margin: 2.5%;
+    color: indigo;
+    border: solid 3px;
+    border-radius: 5px;
+    height: 78%;
+    margin-top: 1%;
+}
+#adicionar{
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+}
+#quantidade{
+    margin-left: 0.5%;
+}
+#super{
+    margin-left: 0.5%;
+}
+#tit{
+    text-align: center;
+}
+#mainapresenta{
+    height: 90%;
+    width: 100%;
+    text-align: justify;
+    padding: 2%;
+
+}
+
+#bootshow{
+    height: 2.5%;
+    width: 100%;
+    vertical-align: bottom;
+}
+#botaozinhosubmeter{
+    margin-left: 80%
+}
+#cortes{
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    width: 95%
+}
+#peca{
+    width: 100%;
+}
+#complementar{
+    margin-left: 85%;
+}
+.showin{
+    margin-left: 2%;
+}
+.fixa{
+    float: right;
+}
+.tonavfront{
+    width: 94.5%;
+    display: inline-block;
+}
+.tonavback{
+    width: 5%;
+    padding-top: 0.5%;
+    display: inline-block;
+}
+#regir{
+    margin-left: 85%;
+}
+#atual{
+    margin-left: 90%;
+}
+#frontmail{
+    width: 45%;
+    display: inline-block;
+}
+#provmail{
+    width: 50%;
+    display: inline-block;
+}
+#domainmail{
+    width: 100%;
+    display: inline-block;
+}
+#dome{
+    display: inline-block;
+    width: 20%;
+}
+#tomail{
+    display: inline-block;
+    width: 70%
+}
+#aprov{
+    background: green;
+    color: red;
+}
+#reprov{
+    background: red;
+    color: yellow
+}

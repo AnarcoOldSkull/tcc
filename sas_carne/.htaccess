@@ -1,0 +1,10 @@
+RewriteEngine on
+# Don't apply to URLs that go to existing files or folders.
+
+
+
+RewriteCond %{REQUEST_URI} !=/server-status
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.+)\/?([0-9]*)\/?$ index.php?url=$1
+
